@@ -1,5 +1,5 @@
 const axios = require("axios");
-const token = ""; //get token from hastebin.com
+const token = "28215b0a7206c1fd1446291c6f8bfb2368fbf5a3975f77feb933ff963eff9c4dcabc6bee7c04bf45cc32b1a821f65494930af7cd36e8c615445069b981830e06"; //get token from hastebin.com
 
 async function create(data) {
   try {
